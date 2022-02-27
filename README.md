@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aaviix (Avanish Singh)
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering and android development.
 - 🌱 I’m currently learning Computer Science Engineering spl in Artifical Intelligence
-- 💞️ I’m looking to learn code as I'm a new to prgramming.
 - 📫 How to reach me singhavanish8642@gmail.com
 
 <!---
